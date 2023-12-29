@@ -1,3 +1,22 @@
 # Table of contents
 
-* [Demo](README.md)
+<!-- - [Demo](README.md) -->
+- [Part One](part-01/main.md)
+  - [Chapter 01 - Introductory](./part-01/chapter-01/main.md)
+  - [Chapter 02 - The System](./part-01/chapter-02/main.md)
+  - [Chapter 03 - Grammatical Principles](./part-01/chapter-03/main.md)
+  - [Chapter 04 - Teaching and Learning](./part-01/chapter-04/main.md)
+- [Part Two - A Short Guide to Basic English](part-02/main.md)
+  - [Chapter 01 - What is Basic English?](part-02/chapter-01/main.md)
+  - [Chapter 02 - Basic as an International Language](part-02/chapter-02/main.md)
+  - [Chapter 03 - How the 850 Words do their Work?](part-02/chapter-03/main.md)
+  - [Chapter 04 - Basic as an Instrument of Thought](part-02/chapter-04/main.md)
+  - [Chapter 05 - The Learning of Basic](part-02/chapter-05/main.md)
+  - [Chapter 06 - The Teaching of Basic](part-02/chapter-06/main.md)
+  - [Chapter 07 - Basic for Science](part-02/chapter-07/main.md)
+  - [Chapter 08 - Basic for Business](part-02/chapter-08/main.md)
+  - [Chapter 09 - Twelve Years Work, 1927-1939](part-02/chapter-09/main.md)
+  - [Chapter 10 - The Future](part-02/chapter-10/main.md)
+- [Appendix]()
+  - [The Value of Basic](appendix/01/main.md)
+  - [English without Tears](appendix/02/main.md)
