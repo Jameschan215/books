@@ -1,2 +1,3 @@
-# Page
+# Demo
 
+This is a demo.
